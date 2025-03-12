@@ -1,0 +1,7 @@
+requests==2.31.0
+PyQt6==6.6.1
+pandas==2.2.0
+openpyxl==3.1.2
+pyarrow==15.0.0
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0 
